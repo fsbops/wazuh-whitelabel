@@ -24,6 +24,14 @@ Este projeto fornece um script bash automatizado (`custom_wazuh.sh`) para person
 
 ---
 
+## 📷 Exemplos
+
+![Tela login](imagens/login.png)
+
+![Tela loading](imagens/loading.png)
+
+---
+
 ## 🚀 Como usar
 
 1. Clone este repositório:
@@ -76,7 +84,7 @@ O uso deste script e das imagens ilustrativas tem caráter **exclusivamente educ
 
 ---
 
-## 🧠 BUGs conhecidos
+## ⚙️ BUGs conhecidos
 
 - A substituição da logo do healtcheck pode ou não funcionar. Durante os testes, algumas vezes funcionou e outras não. Pode ser necessário adicionar a imagem manualmente através da inteface web após a execução do script. Este é um dos tópicos que já estão reservados para análise futura (embora a alteração via script não seja recomendada pela equipe do Wazuh e esteja marcada para depreciação futura). 
 
