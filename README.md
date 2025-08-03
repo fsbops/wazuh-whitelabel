@@ -93,4 +93,4 @@ O uso deste script e das imagens ilustrativas tem caráter **exclusivamente educ
 ## 🤝 Contribuições
 
 Sugestões, correções ou melhorias são bem-vindas!  
-Abra uma [issue](https://github.com/seu-usuario/wazuh-dashboard-custom/issues) ou envie um pull request.
+Abra uma [issue](https://github.com/fsbops/wazuh-whitelabel/issues) ou envie um pull request.
