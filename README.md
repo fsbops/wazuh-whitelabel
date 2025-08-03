@@ -44,6 +44,7 @@ Este projeto fornece um script bash automatizado (`custom_wazuh.sh`) para person
 
 3. Execute o script como root:
    ```bash
+   sudo chmod +x custom_wazuh.sh
    sudo bash +x custom_wazuh.sh
    ```
 
