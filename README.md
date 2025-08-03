@@ -87,7 +87,8 @@ O uso deste script e das imagens ilustrativas tem caráter **exclusivamente educ
 
 ## ⚙️ BUGs conhecidos
 
-- A substituição da logo do healtcheck pode ou não funcionar. Durante os testes, algumas vezes funcionou e outras não. Pode ser necessário adicionar a imagem manualmente através da inteface web após a execução do script. Este é um dos tópicos que já estão reservados para análise futura (embora a alteração via script não seja recomendada pela equipe do Wazuh e esteja marcada para depreciação futura). 
+- A substituição da logo do healtcheck pode ou não funcionar. Durante os testes, algumas vezes funcionou e outras não. Pode ser necessário adicionar a imagem manualmente através da inteface web após a execução do script. Este é um dos tópicos que já estão reservados para análise futura (embora a alteração via script não seja recomendada pela equipe do Wazuh e esteja marcada para depreciação futura).
+- A função que reescreve o conteúdo do arquivo opensearch_dashboards.yml não está 100% funcional, isto é, ela funciona na inserção, durante a primeira execução do script, mas ao tentar reescrever o conteúdo, ainda não está identificando corretamente que alguns parâmetros já existem e acaba duplicando as entradas, fazendo com que o reload do serviço wazuh-dashboard quebre. Caso queira alterar algo, recomendo que edite manualmente o arquivo [/etc/wazuh-dashboard/opensearch_dashboards.yml] após repetir a execução do script.
 
 ---
 
