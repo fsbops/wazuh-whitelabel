@@ -30,8 +30,8 @@ LOADING_LOGO_URL="https://cdn.ead.guru/31532/media/public/Logo_Principal_GKpuVnD
 LOADING_LOGO_DARK_URL="https://hackershive.io/wp-content/uploads/2024/10/Logo-350x100-Elementor-fund-trans.png"
 
 # Mini logo da dashboard (PNG recomendado: 24x24)
-MINI_LOGO_URL="https://hackershive.io/wp-content/uploads/2024/10/428627995_999286831586199_2915274998790093152_n.jpg"
-MINI_LOGO_DARK_URL="https://hackershive.io/wp-content/uploads/2024/10/428627995_999286831586199_2915274998790093152_n.jpg"
+MINI_LOGO_URL="https://cdn.ead.guru/31532/media/public/Logo_Principal_GKpuVnD.png"
+MINI_LOGO_DARK_URL="https://cdn.ead.guru/31532/media/public/Logo_Principal_GKpuVnD.png"
 
 # Nome da aba do navegador
 APP_TITLE="HHive SIEM"
