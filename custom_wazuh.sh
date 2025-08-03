@@ -17,7 +17,7 @@ FAVICON_32_URL="https://hackershive.io/wp-content/uploads/2024/10/428627995_9992
 TOP_BAR_LOGO_URL="https://hackershive.io/wp-content/uploads/2024/10/428627995_999286831586199_2915274998790093152_n.jpg"
 
 # Logo da tela de login (SVG recomendado: até 300x70)
-LOGIN_LOGO_URL="https://hackershive.io/wp-content/uploads/2024/10/Logo-350x100-Elementor-fund-trans.pngg"
+LOGIN_LOGO_URL="https://hackershive.io/wp-content/uploads/2024/10/Logo-350x100-Elementor-fund-trans.png"
 
 # Logo da tela de login (SVG recomendado: até 300x70)
 HEALTHCHECK_LOGO_URL="https://hackershive.io/wp-content/uploads/2024/10/Logo-350x100-Elementor-fund-trans.png"
