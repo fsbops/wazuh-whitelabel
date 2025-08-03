@@ -37,7 +37,7 @@ MINI_LOGO_DARK_URL="https://hackershive.io/wp-content/uploads/2024/10/428627995_
 APP_TITLE="HHive SIEM"
 
 # Texto da tela de login (opcional)
-LOGIN_TITLE="Security Information and Event Management"
+LOGIN_TITLE="SIEM"
 LOGIN_SUBTITLE="Si vis pacem, para bellum"
 
 # Caminho do YAML de configuração
